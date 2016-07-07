@@ -48,9 +48,9 @@ It should be noted that the following content is generated from posts:
 - The portfolio items
   - For every item create a post with two tags, one 'portfolio' and one unique tag for that portfolio item.
 - The about page
-  - Create a post titled 'about'
+  - Create a post titled 'about'. It does not have to be published.
 - The contact me page
-  - Create a post titled 'contact'
+  - Create a post titled 'contact'. It does not have to be published.
 
 ## Limitations
 
