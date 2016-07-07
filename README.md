@@ -5,7 +5,7 @@ A simple, to the point, but very useful portfolio + personal blog that intends t
 
 Written mostly in PHP, you can create and edit posts, search the blog, order paginated results, and update your details.
 
-The front page is a automatically updated with portfolio items, take a look at the it running, for my own use at http://joeycumines.me/
+The front page is automatically updated with portfolio items, take a look at it running, for my own use at http://joeycumines.me/
 
 ## Licence
 
