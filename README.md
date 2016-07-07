@@ -5,7 +5,7 @@ A simple, to the point, but very useful portfolio + personal blog that intends t
 
 Written mostly in PHP, you can create and edit posts, search the blog, order paginated results, and update your details.
 
-The front page is a automatically updated with portfolio items, take a look at the it running, for my own use at (joeycumines.me)[http://joeycumines.me/]
+The front page is a automatically updated with portfolio items, take a look at the it running, for my own use at http://joeycumines.me/
 
 ## Licence
 
@@ -23,7 +23,7 @@ I will briefly outline how to set up this application on a LAMP stack.
   - jQuery v1.12.2
   - Bootstrap v3.3.6
   - ckeditor + (markdown plugin optional)
-  - (Here is a zip to extract into the root)[https://drive.google.com/file/d/0B1JTntMu0v0-b2R3RDYwaGFiZ2c/view?usp=sharing]
+  - Here is a zip to extract into the root: https://drive.google.com/file/d/0B1JTntMu0v0-b2R3RDYwaGFiZ2c/view?usp=sharing
 
 ### Steps
 - Setup the LAMP stack
