@@ -40,6 +40,18 @@ I will briefly outline how to set up this application on a LAMP stack.
 
 Try out your website.
 
+## Widgets
+
+It should be noted that the following content is generated from posts:
+- The introduction on the homepage.
+  - Create a post titled 'me'. It does not have to be published.
+- The portfolio items
+  - For every item create a post with two tags, one 'portfolio' and one unique tag for that portfolio item.
+- The about page
+  - Create a post titled 'about'
+- The contact me page
+  - Create a post titled 'contact'
+
 ## Limitations
 
 As of writing, there are currently no tools to change password, or change any of the global settings without editing the scripts directly.
