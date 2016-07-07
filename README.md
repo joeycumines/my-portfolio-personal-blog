@@ -40,7 +40,7 @@ I will briefly outline how to set up this application on a LAMP stack.
 
 Try out your website.
 
-## Widgets
+### Widgets
 
 It should be noted that the following content is generated from posts:
 - The introduction on the homepage.
